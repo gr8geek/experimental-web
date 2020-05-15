@@ -1,3 +1,3 @@
 # experimental-web
 
-## This is a ppart of my learning journey
+## This is a part of my learning journey
